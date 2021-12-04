@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <h1>React sliding puzzle</h1>  
       <h2>CI/CD</h2>   
+      <h2>third commit</h2>   
     </div>
   );
 }
